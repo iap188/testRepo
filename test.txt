@@ -18,3 +18,5 @@ registry.k8s.io/sig-storage/csi-provisioner:v4.0.0
 registry.k8s.io/sig-storage/csi-attacher:v3.0.1
 registry.k8s.io/sig-storage/csi-resizer:v1.0.1
 registry.k8s.io/sig-storage/csi-external-health-monitor-controller:v0.8.0
+
+https://get.helm.sh/helm-v3.17.0-linux-amd64.tar.gz

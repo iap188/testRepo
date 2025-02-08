@@ -1,4 +1,5 @@
 ghcr.nju.edu.cn
+registry.aliyuncs.com/google_containers/
 ghcr.io/hwameistor/scheduler:v0.16.1
 ghcr.io/hwameistor/admission:v0.16.1
 ghcr.io/hwameistor/evictor:v0.16.1

@@ -1,3 +1,4 @@
+ghcr.nju.edu.cn
 ghcr.io/hwameistor/scheduler:v0.16.1
 ghcr.io/hwameistor/admission:v0.16.1
 ghcr.io/hwameistor/evictor:v0.16.1

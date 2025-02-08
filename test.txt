@@ -1,5 +1,7 @@
 ghcr.nju.edu.cn
 registry.aliyuncs.com/google_containers/
+https://segmentfault.com/a/1190000044950160
+
 ghcr.io/hwameistor/scheduler:v0.16.1
 ghcr.io/hwameistor/admission:v0.16.1
 ghcr.io/hwameistor/evictor:v0.16.1

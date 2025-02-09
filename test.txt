@@ -7,7 +7,7 @@ ghcr.io/hwameistor/admission:v0.16.1
 ghcr.io/hwameistor/evictor:v0.16.1
 ghcr.io/hwameistor/local-disk-manager:v0.16.1
 ghcr.io/hwameistor/local-storage:v0.16.1
-ghcr.io/hwameistor/hwameistor-juicesync:v0.16.1
+ghcr.io/hwameistor/hwameistor-juicesync:v1.0.4-01
 ghcr.io/hwameistor/apiserver:v0.16.1
 ghcr.io/hwameistor/exporter:v0.16.1
 ghcr.io/hwameistor/hwameistor-ui:v0.16.1

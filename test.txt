@@ -46,3 +46,11 @@ ghcr.io/hwameistor/dataset-manager:v0.0.1
 ghcr.io/hwameistor/dataload-init:v0.0.1
 
 https://github.com/hwameistor/hwameistor-operator/releases/download/v0.16.1/hwameistor-operator-v0.16.1.tgz
+
+
+ghcr.io/hwameistor
+daocloud.io/daocloud/drbd9-shipper:v9.0.32-1_v0.4.3
+daocloud.io/daocloud/drbd9-rhel7:v9.0.32-1_v0.4.3
+daocloud.io/daocloud/drbd9-rhel8:v9.0.32-1_v0.4.3
+daocloud.io/daocloud/drbd-reactor:v0.8.0
+https://github.com/hwameistor/drbd-adapter/releases/download/v0.4.3/drbd-adapter-v0.4.3.tgz

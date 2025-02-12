@@ -31,3 +31,18 @@ registry.k8s.io/sig-storage/csi-snapshotter:v6.0.0
 registry.k8s.io/sig-storage/csi-provisioner:v2.0.3
 registry.k8s.io/sig-storage/csi-provisioner:v4.0.0
 
+ghcr.io/hwameistor/operator:v0.16.1
+ghcr.io/dtzar/helm-kubectl:3.16
+ghcr.io/hwameistor/drbd9-shipper:v9.0.32-1_v0.4.3
+ghcr.io/hwameistor/drbd9-shipper:v0.4.3_v0.4.3
+ghcr.io/hwameistor/drbd9-rhel7:v9.0.32-1_v0.4.3
+ghcr.io/hwameistor/drbd9-rhel8:v9.0.32-1_v0.4.3
+ghcr.io/hwameistor/drbd9-rhel9:v9.0.32-1_v0.4.3
+ghcr.io/hwameistor/drbd9-kylin10:v9.0.32-1_v0.4.3
+ghcr.io/hwameistor/drbd9-bionic:v9.0.32-1_v0.4.3
+ghcr.io/hwameistor/drbd9-focal:v9.0.32-1_v0.4.3
+ghcr.io/hwameistor/dataload-manager:v0.0.1
+ghcr.io/hwameistor/dataset-manager:v0.0.1
+ghcr.io/hwameistor/dataload-init:v0.0.1
+
+https://github.com/hwameistor/hwameistor-operator/releases/download/v0.16.1/hwameistor-operator-v0.16.1.tgz
